@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: elenuco
 - 😄 Pronouns: She-Her
 - ⚡ languages: English, Spanish and Japanese
+## More programming languages used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenuco&theme=tokyonight)
