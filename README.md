@@ -1,16 +1,17 @@
 ### Hi there 👋 I’m elenuco but you can call me Elena Umanzor
 ---
+## I’m a web developer and Data Science Student
 <!--
 **elenuco/elenuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+- 🔭 I’m currently working on QA expertise
+- 🌱 I’m currently learning PHP, 
+- 👯 I’m looking to collaborate on Data science, QA an Python projects
+- 🤔 I’m looking for help with Data Sience invetigations 
+- 💬 Ask me about PHP, Python, JavaScript and Cyress
+- 📫 How to reach me: elenuco
+- 😄 Pronouns: She-Her
+- ⚡ languages: English, Spanish and Japanese
