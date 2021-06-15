@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 - 🔭 I’m currently working on QA expertise
-- 🌱 I’m currently learning PHP, 
+- 🌱 I’m currently learning PHP, Python,CNNA CISCO, JavaScript.
 - 👯 I’m looking to collaborate on Data science, QA an Python projects
 - 🤔 I’m looking for help with Data Sience invetigations 
 - 💬 Ask me about PHP, Python, JavaScript and Cyress
@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenuco&theme=tokyonight)
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=elenuco&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=elenuco&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=elenuco&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=elenuco&hide=php&theme=tokyonight" />
+</a>
+</div>
