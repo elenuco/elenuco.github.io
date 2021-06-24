@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on QA expertise
 - 🌱 I’m currently learning PHP, Python,CNNA CISCO, JavaScript.
 - 👯 I’m looking to collaborate on Data science, QA an Python projects
-- 🤔 I’m looking for help with Data Sience invetigations 
+- 🤔 I’m looking for help with Data Science investigations 
 - 💬 Ask me about PHP, Python, JavaScript and Cyress
 - 📫 How to reach me: elenuco
 - 😄 Pronouns: She-Her
