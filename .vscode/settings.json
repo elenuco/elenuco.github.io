@@ -1,5 +1,7 @@
 {
     "conventionalCommits.scopes": [
-        "new documents"
-    ]
+        "new documents",
+        "problems wit library"
+    ],
+    "liveServer.settings.port": 5501
 }
